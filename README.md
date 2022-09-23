@@ -11,8 +11,6 @@
 6. PVC as chesis
 7. LI-ION battery
 
-### PID formula
-` int motorSpeed = Kp * error + Ki * errorSum + Kd * (error - lastError);`
 
 ### Youtube Link
 https://youtu.be/AFIUjHMCzvQ
