@@ -13,3 +13,5 @@
 
 ### PID formula
 ` int motorSpeed = Kp * error + Ki * errorSum + Kd * (error - lastError);`
+
+[![LFR]](https://youtu.be/AFIUjHMCzvQ)
