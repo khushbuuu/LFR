@@ -1,0 +1,21 @@
+```
+//l298n driver
+const int IN1 = 7;    //Orange    //L1
+const int IN2 = 4;    //Green     //L2
+const int IN3 = 3;    //Blue      //R1
+const int IN4 = 2;    //ash       //R2
+const int ENA = 6;    //White    //left motor
+const int ENB = 5;    //Black    //right motor
+//sensor
+const int pinOUT1 = 8;  //Blue   
+const int pinOUT2 = 9;  //Yellow
+const int pinOUT3 = 10; //Green
+const int pinOUT4 = 11; //Blue 
+const int pinOUT5 = 12; //Violet
+//IR sensor variable
+int s1 = 0;
+int s2 = 0;
+int s3 = 0;
+int s4 = 0;
+int s5 = 0;
+```
